@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"增加一行代码");
+    NSLog(@"代码冲突");
 }
 
 - (void)didReceiveMemoryWarning {
