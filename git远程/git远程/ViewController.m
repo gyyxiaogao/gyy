@@ -23,9 +23,9 @@
 
     NSLog(@"我的代码");
 
-
+    NSLog(@"test1");
     NSLog(@"你的代码");
-
+    NSLog(@"主分支是我的");
 }
 
 - (void)didReceiveMemoryWarning {
