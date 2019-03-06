@@ -28,6 +28,7 @@
     NSLog(@"主分支是我的");
     NSLog(@"345");
     NSLog(@"分支推送");
+    NSLog(@"主支推送");
 }
 
 - (void)didReceiveMemoryWarning {
