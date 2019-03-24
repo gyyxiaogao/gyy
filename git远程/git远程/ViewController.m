@@ -31,6 +31,7 @@
     NSLog(@"主支推送");
     NSLog(@"780");
     NSLog(@"上一次的commit");
+    NSLog(@"这一次的commit");
 }
 
 - (void)didReceiveMemoryWarning {
