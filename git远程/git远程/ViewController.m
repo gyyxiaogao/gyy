@@ -33,6 +33,7 @@
     NSLog(@"上一次的commit");
     NSLog(@"这一次的commit");
     NSLog(@"我的A1");
+    NSLog(@"test综合的分支");
 }
 
 - (void)didReceiveMemoryWarning {
