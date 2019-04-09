@@ -30,6 +30,7 @@
     NSLog(@"分支推送");
     NSLog(@"主支推送");
     NSLog(@"我的分支的test2");
+    NSLog(@"fsdf");
 }
 
 - (void)didReceiveMemoryWarning {
