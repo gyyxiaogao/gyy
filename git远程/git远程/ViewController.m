@@ -36,6 +36,7 @@
     NSLog(@"test综合的分支");
     NSLog(@"我的分支的test2");
     NSLog(@"fsdf");
+    NSLog(@"测试一下");
 }
 
 - (void)didReceiveMemoryWarning {
