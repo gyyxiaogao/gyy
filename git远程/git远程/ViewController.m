@@ -34,6 +34,8 @@
     NSLog(@"这一次的commit");
     NSLog(@"我的A1");
     NSLog(@"test综合的分支");
+    NSLog(@"我的分支的test2");
+    NSLog(@"fsdf");
 }
 
 - (void)didReceiveMemoryWarning {
