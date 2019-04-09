@@ -31,6 +31,7 @@
     NSLog(@"主支推送");
     NSLog(@"我的分支的test2");
     NSLog(@"fsdf");
+    NSLog(@"改了bunlde");
 }
 
 - (void)didReceiveMemoryWarning {
